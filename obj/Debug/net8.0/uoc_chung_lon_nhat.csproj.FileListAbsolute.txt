@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\bin\Debug\net8.0\uoc_chung_lon_nhat.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\bin\Debug\net8.0\uoc_chung_lon_nhat.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\bin\Debug\net8.0\uoc_chung_lon_nhat.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\bin\Debug\net8.0\uoc_chung_lon_nhat.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\bin\Debug\net8.0\uoc_chung_lon_nhat.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\refint\uoc_chung_lon_nhat.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\uoc_chung_lon_nhat.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\uoc_chung_lon_nhat\obj\Debug\net8.0\ref\uoc_chung_lon_nhat.dll
